@@ -6,3 +6,4 @@
 - nuovo layout di chat
 - implementata delle nuove risposte 
 - e stata aggiunto un layout modficato per mobile
+- Nuova animazione di invio messagio 
